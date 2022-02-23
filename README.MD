@@ -1,6 +1,7 @@
 This project assumes you have the following installed
 
 Node.js (https://nodejs.org/en/)
+
 Cypress (use the command 'npm install cypress --save-dev')
 
 Github would not allow the node_modules files to uploaded so once the repo has been cloned
